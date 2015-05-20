@@ -1,0 +1,18 @@
+{
+  "name": "top10",
+  "version": "0.0.0",
+  "authors": [
+    "Julien Brionne <julien.brionne@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "kraken": "https://github.com/cferdinandi/kraken.git#~6.0.0"
+  }
+}

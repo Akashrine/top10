@@ -1,0 +1,15 @@
+{
+  "name": "kraken",
+  "homepage": "https://github.com/cferdinandi/kraken",
+  "version": "6.0.0",
+  "_release": "6.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "6.0.0",
+    "commit": "c1de1497264d37dee0ca76a5aa69d32346af8db0"
+  },
+  "_source": "https://github.com/cferdinandi/kraken.git",
+  "_target": "~6.0.0",
+  "_originalSource": "https://github.com/cferdinandi/kraken.git",
+  "_direct": true
+}
