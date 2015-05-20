@@ -12,7 +12,5 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "kraken": "https://github.com/cferdinandi/kraken.git#~6.0.0"
-  }
+  "dependencies": {}
 }
